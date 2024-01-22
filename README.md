@@ -27,3 +27,8 @@ Information importante :
 Résultat à obtenir :
 
     Combien de poissons y a-t-il au bout de 80 jours?
+
+
+Partie 2
+
+La même chose qu'avant, mais cette fois avec 256 à la place de 80 !
